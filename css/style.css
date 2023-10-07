@@ -2,7 +2,16 @@
 body {
     font-size: 0.3em;
 }
-
+* {box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* PHONES - 600 px and under */
+@media only screen and (max-width: 600px){
+}
+/* TABLETS - 1200 px and under */
+@media only screen and (max-width: 1200px){
+}
 div {
     /* border: 2px solid blue; */
 }
